@@ -1,0 +1,45 @@
+commit 282f796a574c2060e203bec0b9bc248c7986ed10
+Merge: 2344f2f a67c088
+Author: sguzma79 <sguzma79@calstatela.edu>
+Date:   Thu Sep 4 23:06:16 2025 -0700
+
+    fixed conflict
+
+commit a67c088dfc74503bc8548dd7175069221c021c0b
+Author: sguzma79 <sguzma79@calstatela.edu>
+Date:   Thu Sep 4 22:54:47 2025 -0700
+
+    making second change
+
+commit 2344f2f392eb77712b645f4d104ad0b6206b5a95
+Author: sguzma79 <sguzma79@calstatela.edu>
+Date:   Thu Sep 4 22:51:48 2025 -0700
+
+     making first change
+
+commit 83fe836af944ae52b777c97c82e4a8f48865b6bb
+Author: sguzma79 <sguzma79@calstatela.edu>
+Date:   Thu Sep 4 22:48:06 2025 -0700
+
+    commit readme to main
+
+commit 3be9a986aff7a3976d15e2a32b7de3fa63854f95
+Merge: 1d2bfc0 605999d
+Author: sguzma79 <sguzma79@calstatela.edu>
+Date:   Thu Sep 4 22:44:00 2025 -0700
+
+    Merge pull request #1 from sguzma79/info-fill
+    
+    updating index
+
+commit 605999d2bfe102f716b06f189e242cab28d6f2d5
+Author: sguzma79 <sguzma79@calstatela.edu>
+Date:   Thu Sep 4 22:40:43 2025 -0700
+
+    updating index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
